@@ -1,0 +1,80 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.grid1 {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px auto;
+    width: 90%;
+    height: 400px;
+    outline: 4px solid black;
+    max-width: 400px;
+    /*se activa display grid*/
+    display: grid;
+}
+
+.container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px auto;
+    width: 90%;
+    height: 400px;
+    outline: 4px solid black;
+    max-width: 400px;
+    /*se activa display grid*/
+    display: grid;
+    /*para crear columnas*/
+    grid-template-columns: 1fr  1fr 1fr;
+}
+
+.box1 {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+
+.box2 {
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+}
+
+.box3 {
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+}
+
+.box4 {
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+.container2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px auto;
+    width: 90%;
+    height: 400px;
+    outline: 4px solid black;
+    max-width: 400px;
+    /*se activa display grid*/
+    display: grid;
+     /*se crean filas*/
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 100px 10em 1fr;
+}
+
+.container3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 80px auto;
+    width: 90%;
+    height: 400px;
+    outline: 4px solid black;
+    max-width: 400px;
+    /*se activa display grid*/
+    display: grid;
+     /*se crean filas*/
+}
+
