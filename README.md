@@ -17,7 +17,7 @@ grid-practica/
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**AGUSTIN GIBAUT**
 - GitHub: [@AgustinGibaut](https://github.com/AgustinGibaut)
 - Email: agusgibaut693@gmail.com
 
