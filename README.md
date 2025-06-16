@@ -1,7 +1,6 @@
 
 # 🎯 Práctica de CSS Grid
 
-![CSS Grid Practice](/lovable-uploads/3830da4e-a545-4d8c-ad1d-216e3433df32.png)
 
 ## 📋 Descripción
 
